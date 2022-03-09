@@ -8,3 +8,8 @@
 * [백준 23289 - 온풍기 안녕!](https://www.acmicpc.net/problem/23289)
 * [백준 23290 - 마법사 상어와 복제](https://www.acmicpc.net/problem/23290)
 * [백준 23291 - 어항 정리](https://www.acmicpc.net/problem/23291)
+
+### 22-03-13(SUN)
+* [백준 23289 - 온풍기 안녕!](https://www.acmicpc.net/problem/23289)
+* [백준 23288 - 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
+* [백준 23291 - 어항 정리](https://www.acmicpc.net/problem/23291)
