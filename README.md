@@ -13,3 +13,8 @@
 * [백준 23289 - 온풍기 안녕!](https://www.acmicpc.net/problem/23289) 다시!
 * [백준 23288 - 주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
 * [백준 21611 - 마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)
+
+### 22-03-16(WED)
+* [백준 21610 - 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
+* [백준 21609 - 상어 중학교](https://www.acmicpc.net/problem/21609)
+* [백준 21608 - 상어 초등학교](https://www.acmicpc.net/problem/21608)
